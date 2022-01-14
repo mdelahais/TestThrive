@@ -1,0 +1,56 @@
+p {
+	color: grey;
+}
+.navbartitle{
+	margin: 60px;
+	position: absolute;
+	display: inline-block;
+	z-index:2;
+}
+.blackCase{
+	background: black;
+	border: 0;
+ 	box-shadow: none;
+ 	border-radius: 0px;
+ 	width: 75px;
+ 	height: 75px;
+ 	margin-top: 10%;
+}
+.tiret{
+	color: grey;
+	font-size: 30px;
+}
+.alink{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 40px;
+	font-weight: bold;
+}
+.buttonShop{
+	border: 0;
+ 	box-shadow: none;
+ 	border-radius: 0px;
+ 	background: transparent;
+ 	font-weight: bold;
+}
+.alink-v{
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 40px;
+	font-weight: bold;
+}
+.video-responsive { 
+	overflow:hidden; 
+	padding-bottom:56.25%; 
+	position:relative; 
+	height:0;
+}
+.video-responsive iframe { 
+	left:0; 
+	top:0; 
+	height:100%; 
+	width:100%; 
+	position:absolute;
+}
